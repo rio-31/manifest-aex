@@ -98,6 +98,6 @@
   <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/vold" />
-  <remove-project name="platform_vendor_gapps" />
+  <remove-project name="platform/vendor/gapps" />
 
 </manifest>
